@@ -1,4 +1,4 @@
-package exerciciopoo01.resolucao_sem_oo;
+package exerciciopoo01.resolucao;
 
 import java.util.Scanner;
 
